@@ -14,7 +14,7 @@ The network is divided into three logical groups:
   * **Teachers (VLAN 20):** Orange zone.
   * **Admin/Management (VLAN 30):** Central zone.
 
-*(Make sure to upload `image_28c67c.jpg` to the `images/` folder in your repository)*
+![Network Topology Diagram](images/image_2025-12-11_220022877.png)
 
 To understand how the router separates traffic for different VLANs over a single cable, view the visualization of the process below:
 
