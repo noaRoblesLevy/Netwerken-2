@@ -11,7 +11,7 @@ This simulation sets up a network where a single router (`R1`) manages IP addres
 
 The network consists of two routers connected via a Serial WAN link using the `10.0.0.0/8` network.
 
-![Network Topology Diagram](images/)
+![Network Topology Diagram](images/image_2025-12-11_220022877.png)
 
 ## 3\. Key Concepts
 
