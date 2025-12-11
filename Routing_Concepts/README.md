@@ -18,6 +18,8 @@ The network is divided into two distinct sites connected via a Serial WAN link:
       * **Devices:** `PC1` and `PC2`.
   * **WAN Connection:**
       * A Serial connection links `Router0` and `Router2` to simulate a Wide Area Network.
+   
+        ![Network Topology Diagram](images/image_2025-12-11_220022877.png)
 
 ## 3\. Key Concepts Covered
 
